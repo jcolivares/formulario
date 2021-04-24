@@ -1,0 +1,24 @@
+#titulo {
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
+}
+
+form {
+    background-color: lightslategrey;
+}
+
+.obligado{
+    color: red;
+    font-size: 1.5em;
+}
+
+input:focus {
+    background-color: yellow;
+    color: green;
+    font-size: 2em;
+}
+
+textarea:blur {
+    color:tomato;
+    background: yellowgreen;
+}
